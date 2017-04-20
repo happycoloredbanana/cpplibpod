@@ -31,6 +31,8 @@
 		581EB1981EA896C700F72738 /* defs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = defs.h; path = feature_b/defs.h; sourceTree = "<group>"; };
 		581EB1991EA896F600F72738 /* feature_b.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = feature_b.cpp; path = feature_b/feature_b.cpp; sourceTree = "<group>"; };
 		581EB19A1EA896F600F72738 /* feature_b.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = feature_b.h; path = feature_b/feature_b.h; sourceTree = "<group>"; };
+		581EB1BF1EA8BE6700F72738 /* more_defs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = more_defs.h; path = feature_a/more_defs.h; sourceTree = "<group>"; };
+		581EB1C01EA8BEAF00F72738 /* more_defs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = more_defs.h; path = feature_b/more_defs.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				581EB1931EA895A700F72738 /* defs.h */,
 				581EB1941EA8961800F72738 /* feature_a.cpp */,
 				581EB1961EA8964C00F72738 /* feature_a.h */,
+				581EB1BF1EA8BE6700F72738 /* more_defs.h */,
 			);
 			name = feature_a;
 			sourceTree = "<group>";
@@ -85,6 +88,7 @@
 				581EB1981EA896C700F72738 /* defs.h */,
 				581EB1991EA896F600F72738 /* feature_b.cpp */,
 				581EB19A1EA896F600F72738 /* feature_b.h */,
+				581EB1C01EA8BEAF00F72738 /* more_defs.h */,
 			);
 			name = feature_b;
 			sourceTree = "<group>";
@@ -281,6 +285,7 @@
 				581EB1911EA8953F00F72738 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
